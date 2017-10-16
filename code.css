@@ -1,4 +1,4 @@
-#Title1 <!-- formatting for main title -->
+#Title1 /*formatting for main title*/
 {
 	text-align: center;
 	color: black;
@@ -12,7 +12,7 @@
 	text-align: center;
 }
 
-#Text <!-- formatting for general country information -->
+#Text /*formatting for general country information*/
 {
 	text-align: center;
 }
