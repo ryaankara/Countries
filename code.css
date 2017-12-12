@@ -112,3 +112,67 @@
 	text-align: right;
 	padding-right: 90px;
 }
+
+#BrazilFlag
+{
+	float: left;
+	display: inline-block;
+	text-align: left;
+	padding-left: 50px;
+}
+
+#BrazilMap
+{
+	float: right;
+	display: inline-block;
+	text-align: right;
+	padding-right: 90px;
+}
+
+#ItalyFlag
+{
+	float: left;
+	display: inline-block;
+	text-align: left;
+	padding-left: 50px;
+}
+
+#ItalyMap
+{
+	float: right;
+	display: inline-block;
+	text-align: right;
+	padding-right: 90px;
+}
+
+#JapanFlag
+{
+	float: left;
+	display: inline-block;
+	text-align: left;
+	padding-left: 50px;
+}
+
+#JapanMap
+{
+	float: right;
+	display: inline-block;
+	text-align: right;
+	padding-right: 90px;
+}
+
+#PakistanFlag
+{
+	float: left;
+	display: inline-block;
+	text-align: left;
+	padding-left: 50px;
+}
+
+#PakistanMap
+{
+	float: right;
+	display: inline-block;
+	text-align: right;
+	padding-right: 90px;
+}
